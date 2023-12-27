@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/cc -O2 -g -DNDEBUG CMakeFiles/PrintOut.dir/src/main.c.o CMakeFiles/PrintOut.dir/src/printout.c.o -o PrintOut 
